@@ -1,5 +1,5 @@
  # hello-world 
  
- I was an employee at El Toro IP Targeting working in the capacity of a Systems Engineer Apprentice. However I'm currently laid off and reaping the benefits of retiremnet at the moment.
- I have completed the Web Development Pathway with CodeYou and I'm currently enrolled in the Software Development Pathway.
- "This repository is for practicing the GitHub Flow.
+ I previously worked at El Toro IP Targeting
+ as a Systems Engineer Apprentice. I am currently retired and continuing to grow my skills in software development. I completed the Web Development Pathway with Code:You
+ and I am currently enrolled in the Software Development Pathway. This repository is for practicing the GitHub Flow and improving my development workflow.
