@@ -6,7 +6,7 @@ I'm an aspiring **Software Developer and IT Professional** with a growing focus 
 
 I previously worked at **El Toro IP Targeting** as a **Systems Engineer Apprentice** and am also a retired **U.S. Army veteran**. I’m continuing to build on that technical and leadership experience through hands-on software development projects, coursework, and independent learning.
 
-I completed the **Code:You Web Development Pathway** and am continuing my software development training with an emphasis on **C# and .NET**. I am also pursuing my **Computer Information Technology degree at JCTC**.
+I completed the **Code:You Web Development Pathway** as well as the Software Development Pathway with an emphasis on **C# and .NET**. I am also pursuing my **Computer Information Technology degree at JCTC**.
 
 This repository has grown from a simple GitHub Flow practice project into a place that reflects my development journey, technical growth, and expanding portfolio of software projects.
 
