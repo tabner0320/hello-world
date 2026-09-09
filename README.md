@@ -1,6 +1,6 @@
 # hello-world
 
-## Hi, I'm Theo 👋
+## Hi, I'm Theo 
 
 I'm an aspiring **Software Developer and IT Professional** with a growing focus on **C#, .NET, ASP.NET Core, JavaScript, REST APIs, cloud technologies, and AI-assisted development**.
 
